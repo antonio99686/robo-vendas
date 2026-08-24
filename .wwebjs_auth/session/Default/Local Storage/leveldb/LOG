@@ -1,2 +1,3 @@
-2026/08/24-19:40:25.114 2cb0 Creating DB C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
-2026/08/24-19:40:25.129 2cb0 Reusing MANIFEST C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/24-20:30:31.003 61b8 Reusing MANIFEST C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/24-20:30:31.007 61b8 Recovering log #3
+2026/08/24-20:30:31.009 61b8 Reusing old log C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 

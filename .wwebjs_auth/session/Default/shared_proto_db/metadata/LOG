@@ -1,2 +1,3 @@
-2026/08/24-19:40:25.154 642c Creating DB C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\shared_proto_db\metadata since it was missing.
-2026/08/24-19:40:25.160 642c Reusing MANIFEST C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/24-20:30:31.042 1920 Reusing MANIFEST C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/24-20:30:31.042 1920 Recovering log #3
+2026/08/24-20:30:31.042 1920 Reusing old log C:\wamp64\www\robo-vendas\.wwebjs_auth\session\Default\shared_proto_db\metadata/000003.log 
